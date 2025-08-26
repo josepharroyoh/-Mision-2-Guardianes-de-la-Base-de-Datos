@@ -8,7 +8,7 @@ Este repositorio contiene la solución al reto "Guardianes de la Base de Datos" 
 
 El primer paso fue analizar y modelar la estructura de la base de datos `jardineria`. El siguiente diagrama representa las tablas, sus atributos y las relaciones entre ellas.
 
-![Diagrama MER de la Base de Datos Jardineria]([URL_DE_TU_IMAGEN_DEL_MER.png](https://github.com/josepharroyoh/-Mision-2-Guardianes-de-la-Base-de-Datos/blob/main/ER%20DIAGRAM%20BASE%20DE%20DATOS%20JARDINERIA.png))
+![Diagrama MER de la Base de Datos Jardineria](https://raw.githubusercontent.com/josepharroyoh/-Mision-2-Guardianes-de-la-Base-de-Datos/main/ER%20DIAGRAM%20BASE%20DE%20DATOS%20JARDINERIA.png)
 
 ---
 
