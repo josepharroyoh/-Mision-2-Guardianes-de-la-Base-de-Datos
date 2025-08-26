@@ -1,4 +1,4 @@
-# Análisis Avanzado con SQL: Reto de la Base de Datos "Jardineria" 🚀
+# Reto semana 2 con SQL: Guardianes de la Base de Datos utilizando la Base de Datos "Jardineria" 🚀
 
 Este repositorio contiene la solución al reto "Guardianes de la Base de Datos" del programa de @360competenciasdigitales. El proyecto abarca desde el diseño y modelado de una base de datos relacional hasta la ejecución de consultas SQL avanzadas para extraer insights de negocio.
 
@@ -8,7 +8,7 @@ Este repositorio contiene la solución al reto "Guardianes de la Base de Datos" 
 
 El primer paso fue analizar y modelar la estructura de la base de datos `jardineria`. El siguiente diagrama representa las tablas, sus atributos y las relaciones entre ellas.
 
-![Diagrama MER de la Base de Datos Jardineria](URL_DE_TU_IMAGEN_DEL_MER.png)
+![Diagrama MER de la Base de Datos Jardineria]([URL_DE_TU_IMAGEN_DEL_MER.png](https://github.com/josepharroyoh/-Mision-2-Guardianes-de-la-Base-de-Datos/blob/main/ER%20DIAGRAM%20BASE%20DE%20DATOS%20JARDINERIA.png))
 
 ---
 
